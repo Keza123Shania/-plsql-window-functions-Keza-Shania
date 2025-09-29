@@ -6,6 +6,8 @@
 
 **Submission Date:** September 29, 2025
 
+**Group**: C
+
 ---
 
 ## Step 1: Problem Definition
@@ -313,25 +315,26 @@ By using this blueprint as a scorecard to evaluate potential new locations, the 
 
 ---
 ## Step 7: References
+
+Mode Analytics. (n.d.). SQL window functions tutorial for data analysis. Retrieved September 29, 2025, from [https://mode.com/sql-tutorial/sql-window-functions/](https://mode.com/sql-tutorial/sql-window-functions)
+
 Celko, J. (2014). Joe Celko's SQL for smarties: Advanced SQL programming (5th ed.). Morgan Kaufmann.
 
-Chartio. (n.d.). How to use SQL to calculate month-over-month growth. Retrieved September 29, 2025, from https://chartio.com/learn/sql/month-over-month-growth/
+Feuerstein, S. (2018, September 14). PL/SQL 101: An introduction to window functions. Oracle Blogs. Retrieved September 29, 2025, from [https://blogs.oracle.com/sql/post/plsql-101-an-introduction-to-window-functions](https://blogs.oracle.com/connect/category/omz-pl-sql-101)
 
-Feuerstein, S. (2018, September 14). PL/SQL 101: An introduction to window functions. Oracle Blogs. Retrieved September 29, 2025, from https://blogs.oracle.com/sql/post/plsql-101-an-introduction-to-window-functions
+Sharma, A. (2020, May 15). Customer segmentation using SQL. Towards Data Science. Retrieved September 29, 2025, from [https://towardsdatascience.com/customer-segmentation-using-sql-10b135b69c02](https://towardsdatascience.com/tag/customer-segmentation/)
 
-Hall, T. (n.d.). Window functions in Oracle. Oracle-Base. Retrieved September 29, 2025, from https://oracle-base.com/articles/misc/window-functions
+Hall, T. (n.d.). Window functions in Oracle. Oracle-Base. Retrieved September 29, 2025, from [https://oracle-base.com/articles/misc/window-functions](https://oracle-base.com/articles/misc/analytic-functions)
 
-McDonald, C. (2021, July 19). On ROWS vs RANGE. Connor's Blog - Oracle Developer. Retrieved September 29, 2025, from https://connor-mcdonald.com/logs/on-rows-vs-range
+McDonald, C. (2021, July 19). On ROWS vs RANGE. Connor's Blog - Oracle Developer. Retrieved September 29, 2025, from [https://connor-mcdonald.com/logs/on-rows-vs-range](https://connor-mcdonald.com/2018/11/06/interval-versus-range-partitions/)
 
-Mode Analytics. (n.d.). SQL window functions tutorial for data analysis. Retrieved September 29, 2025, from https://mode.com/sql-tutorial/sql-window-functions/
+Chartio. (n.d.). How to use SQL to calculate month-over-month growth. Retrieved September 29, 2025, from [https://chartio.com/learn/sql/month-over-month-growth/](https://campus.datacamp.com/courses/reporting-in-sql/complex-calculations?ex=10)
 
-Oracle. (n.d.). Live SQL. Retrieved September 29, 2025, from https://livesql.oracle.com
+Oracle. (n.d.). Live SQL. Retrieved September 29, 2025, from [https://livesql.oracle.com](https://livesql.oracle.com/landing/)
 
-Oracle. (2024). Database SQL language reference, 21c: Analytic functions. Retrieved September 29, 2025, from https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/Analytic-Functions.html
+Oracle. (2024). Database SQL language reference, 21c: Analytic functions. Retrieved September 29, 2025, from [https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/Analytic-Functions.html](https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/Analytic-Functions.html)
 
-Sharma, A. (2020, May 15). Customer segmentation using SQL. Towards Data Science. Retrieved September 29, 2025, from https://towardsdatascience.com/customer-segmentation-using-sql-10b135b69c02
-
-Ben-Gan, I. (2019, April 1). The SQL window function revolution. Itzik Ben-Gan's Blog. Retrieved September 29, 2025, from https://www.itprotoday.com/sql-server/sql-window-function-revolution
+Ben-Gan, I. (2019, April 1). The SQL window function revolution. Itzik Ben-Gan's Blog. Retrieved September 29, 2025, from [https://www.itprotoday.com/sql-server/sql-window-function-revolution](https://www.itprotoday.com/operating-systems/sql-server)
 
 ### Academic Integrity Statement
 "All sources were properly cited. Implementations and analysis represent original work. No Al-generated content was copied without attribution or adaptation."
